@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/a495b4715d0c14778a39c3825d6f8c92_1725Notes.PDF
+file: /media/courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/a495b4715d0c14778a39c3825d6f8c92_1725Notes.PDF
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 1725Notes.PDF
 uid: a495b471-5d0c-1477-8a39-c3825d6f8c92
