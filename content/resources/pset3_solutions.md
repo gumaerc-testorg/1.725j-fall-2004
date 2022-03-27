@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 75e0b678-d8e3-8cb9-5a40-35c31930283d
 resourcetype: Document
 title: PSet3_Solutions.pdf
 uid: bca4cdbf-9d34-62bf-d22a-1c208d274908

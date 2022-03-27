@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 11d9ac3c-2eab-097e-2f32-0359a8563140
 resourcetype: Document
 title: 1725FINALEXAMREVIEWSHEETS.PDF
 uid: 6a497704-7301-3109-e9bc-52f94ec37c95

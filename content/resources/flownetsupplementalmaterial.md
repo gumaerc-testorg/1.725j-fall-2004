@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: df1a2423-e732-778b-c3bd-d403d28bf163
 resourcetype: Document
 title: FlownetSupplementalMaterial.PDF
 uid: 1b1867dc-dc7d-62e7-c209-a920eee66bc0

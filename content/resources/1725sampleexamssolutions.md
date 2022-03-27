@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 11d9ac3c-2eab-097e-2f32-0359a8563140
 resourcetype: Document
 title: 1725SAMPLEEXAMSSOLUTIONS.PDF
 uid: 564a0ce3-34e8-6624-4e6a-cd35eb5951bf
