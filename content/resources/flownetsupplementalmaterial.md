@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/1b1867dcdc7d62e7c209a920eee66bc0_FlownetSupplementalMaterial.PDF
+file: /courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/1b1867dcdc7d62e7c209a920eee66bc0_FlownetSupplementalMaterial.PDF
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

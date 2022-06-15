@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/6a49770473013109e9bc52f94ec37c95_1725FINALEXAMREVIEWSHEETS.PDF
+file: /courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/6a49770473013109e9bc52f94ec37c95_1725FINALEXAMREVIEWSHEETS.PDF
 file_type: application/pdf
 learning_resource_types:
 - Exams
