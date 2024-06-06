@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/e9b283379eb2f36250f920f20ed33808_PSet2_Solutions.pdf
+file_size: 89520
 file_type: application/pdf
 learning_resource_types:
 - Assignments
