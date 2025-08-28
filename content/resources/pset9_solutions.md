@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/8239ad08266a9a99ae5a4f52c147ca61_PSet9_Solutions.pdf
+file: /ol-ocw-studio-app/courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/8239ad08266a9a99ae5a4f52c147ca61_PSet9_Solutions.pdf
 file_size: 132216
 file_type: application/pdf
 learning_resource_types:
